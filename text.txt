@@ -1,0 +1,1 @@
+https://api.openweathermap.org/data/2.5/weather?q=Sangli&appid=8b00f801553f4fd2efbcaffd9f41b42a
